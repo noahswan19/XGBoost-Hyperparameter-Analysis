@@ -3,7 +3,7 @@
 A comprehensive XGBoost hyperparameter optimization project for tennis match prediction using ATP match data from 2003-2023.
 
 ## Overview
-This project implements automated hyperparameter tuning for XGBoost models using the Hyperopt library, with multiple search strategies including full parameter space exploration and percentile-based narrowing. Details of the project can be found at the Medium article here:
+This project implements automated hyperparameter tuning for XGBoost models using the Hyperopt library, with multiple search strategies including full parameter space exploration and percentile-based narrowing. Details of the project can be found at the Medium article here: https://medium.com/@noahswan19/marginal-effect-of-hyperparameter-tuning-with-xgboost-8903c365d1c7
 
 ## Features
 - Automated data loading from Jeff Sackmann's tennis database
@@ -13,7 +13,7 @@ This project implements automated hyperparameter tuning for XGBoost models using
 
 ## Installation
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/noahswan19/XGBoost-Hyperparameter-Analysis.git
 cd XGBoost-Hyperparameter-Analysis
 pip install -r requirements.txt
 ```
